@@ -128,14 +128,14 @@ header .upperNav .icons a:hover i{
 .lowerNav{
     width: 100%;
     position: sticky;
-    top: 0;
+    top: -1px;
     background: var(--lineargrad);
-    z-index: 2;
+    z-index: 10;
     padding: 5px 0;
 }
 .lowerNav .container{
     display: flex;
-    height: 100px;
+    height: 80px;
     justify-content: space-between;
 }
 .lowerNav .bars{
@@ -358,7 +358,7 @@ header .upperNav .icons a:hover i{
     transform: scale(1.02)
 }
 .services .box .card .icon{
-    font-size: 35px;
+    font-size: 20px;
     background-color:#2a2a2a20 ;
     padding: 5px;
     border-radius: 50px;
