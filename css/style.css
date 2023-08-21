@@ -222,7 +222,7 @@ header .upperNav .icons a:hover i{
 /* end heading */
 /* start landing */
 .landing{
-    background-image: url(/images/banner-right.png);
+    background-image: url(../images/banner-right.png);
     background-position: right;
     background-size: 850px;
     background-repeat: no-repeat;
@@ -234,7 +234,7 @@ header .upperNav .icons a:hover i{
     height: 100%;
 }
 .landing .overlay{
-    background-image: url(/images/banner-left.png);
+    background-image: url(../images/banner-left.png);
     background-position: left;
     background-repeat: no-repeat;
     background-size: 190px;
@@ -310,7 +310,7 @@ header .upperNav .icons a:hover i{
 /* end landing */
 /* start services */
 .services{
-    background-image: url(/images/services-left.jpg);
+    background-image: url(../images/services-left.jpg);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 50%;
@@ -388,7 +388,7 @@ header .upperNav .icons a:hover i{
 /* end services */
 /* start skills */
 .skills{
-    background-image: url(/images/infos-bg.jpg);
+    background-image: url(../images/infos-bg.jpg);
     padding: 100px 0;
 }
 .skills .container{
@@ -505,7 +505,7 @@ margin-top: 20px;
 /* end skills */
 /* start contact */
 .contact{
-    background-image: url(/images/contact-left.jpg);
+    background-image: url(../images/contact-left.jpg);
     background-repeat: no-repeat;
     background-position: left;
     margin-top: 50px;
@@ -589,7 +589,7 @@ margin-top: 20px;
 /* end contact */
 /* start footer */
 .footer{
-    background-image: url(/images/cta-bg.jpg);
+    background-image: url(../images/cta-bg.jpg);
     color: #fff;
     text-align: center;
     display: flex;
